@@ -5,7 +5,7 @@
 <meta http-equiv="×-ua-compatible" content="IE=edge">
 <meta name="viewport" content="width"=device-width, initial-scale=1.0">
 <meta name="description content="grupo invasores de sistema no telegran com gerador de contas">
-<meta name="keywords" content="disney,PARAMOUNT,clarotv,clarovideo,starplus,dazn,flextv">
+<meta name="keywords" content="disney, PARAMOUNT, clarotv, clarovideo, starplus, dazn, flextv,">
 <meta name="author" content="jean lucas INVASORES de sistema">
   <title>INVASORES DE SISTEMA</title>
 </html>
